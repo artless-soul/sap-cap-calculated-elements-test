@@ -2,8 +2,6 @@
 
 yarn
 
-yarn deploy
-
 cds watch
 
 navigate to 'Manage books' fiori app 
